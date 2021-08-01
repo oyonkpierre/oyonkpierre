@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oyonkpierre
-- 👀 I’m interested in learning coding
+- 👀 I’m interested in learning about coding, website, and program android apps
 - 🌱 I’m currently learning python basic
 - 💞️ I’m looking to collaborate on some coding too runnning marketplace and other things that connected to my learning
 - 📫 How to reach me just email me 
